@@ -1,6 +1,6 @@
 {
-  "name": "cli-calculator-kamran",
-  "version": "1.0.1",
+  "name": "number-guessing-game-kamran",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,9 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "cli-calculator-kamran": "bin/index.js"
+    "number-guessing-game-kamran": "bin/index.js"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
